@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_example as np
 import pandas as pd
 
 exam1 = [89, 85, 93, 83]

@@ -1,6 +1,6 @@
 import math
 import pandas as pd
-import numpy as np
+import numpy_example as np
 
 
 print("-----------------------data----------------------")

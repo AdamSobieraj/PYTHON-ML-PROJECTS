@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_example as np
 import pandas as pd
 import missingno as msno
 
